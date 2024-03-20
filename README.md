@@ -5,10 +5,9 @@ Simple Student Information System
 
 <h2> Dependencies </h2>
 <ul>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>asyncpg==0.29.0</li>
+	<li>customtkinter==5.2.2</li>
+	<li>python-dotenv==1.0.1</li>
 </ul>
 
 <h2> Status </h2>
